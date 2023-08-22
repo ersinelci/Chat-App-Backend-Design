@@ -58,10 +58,6 @@ Open the chat.db file using an SQLite client or command-line tool and run the SQ
 
 Replace `{group_id}` in the URLs with the actual group ID.
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have improvements to suggest, please create an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
